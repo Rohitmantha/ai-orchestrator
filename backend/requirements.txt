@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pydantic
+loguru
+langchain
+langchain-core
+langchain-google-genai
+pytest
+pytest-asyncio
+pytest-mock
+langchain-groq
+groq
